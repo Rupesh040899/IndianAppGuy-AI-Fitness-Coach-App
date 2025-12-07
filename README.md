@@ -1,6 +1,6 @@
-# AI Fitness Coach — Deployment-ready Repository
+# AI Fitness Coach Project By Rupesh Mali
 
-This repo is a starter Next.js (App Router) project for an AI-powered fitness coach.
+This repo is a  project for an AI-powered fitness coach.
 
 Features:
 - Next.js App Router (TypeScript)
@@ -9,4 +9,4 @@ Features:
 - PDF export, localStorage save
 - Dockerfile + GitHub Actions workflow to deploy to Vercel
 
-See `README_DEPLOY.md` for deployment steps.
+
